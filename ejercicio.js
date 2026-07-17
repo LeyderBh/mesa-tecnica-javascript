@@ -26,3 +26,5 @@ function temperatura(temp) {
 }
 
 temperatura(34)
+
+console.log(5*5)
